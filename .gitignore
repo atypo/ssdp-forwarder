@@ -1,0 +1,5 @@
+.aider*
+.env
+build/**/
+./ssdp-forwarder
+ssdp-forwarder*
